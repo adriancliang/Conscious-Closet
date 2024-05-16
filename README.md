@@ -1,9 +1,9 @@
 # Conscious Closet
 
 <!--
-![GitHub Logo](/CASExplorer.png) 
+![GitHub Logo](/ccloset_intro.png) 
 -->
-![Alt Text](/demo.gif)
+![Alt Text](ccloset_intro.png)
 
 ##
 
